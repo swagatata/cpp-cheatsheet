@@ -414,8 +414,10 @@ sort(a, a+n);             // Sort array a[0]..a[n-1] by <
 sort(a.begin(), a.end()); // Sort vector or deque 
 ~~~~ 
 
+## LIBRARIES (A list of libraries to remember and the major functions they provide) 
+  <iostream>: cout, cin
+  
 
- 
 
    
 
