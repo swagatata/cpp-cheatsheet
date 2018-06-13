@@ -415,7 +415,8 @@ sort(a.begin(), a.end()); // Sort vector or deque
 ~~~~ 
 
 ## LIBRARIES (A list of libraries to remember and the major functions they provide) 
-  <iostream>: cout, cin
+~~~~
+#include <iostream>: cout, cin
   
 
 
